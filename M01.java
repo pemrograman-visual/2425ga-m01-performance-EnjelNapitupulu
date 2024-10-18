@@ -12,7 +12,7 @@ public class M01 {
         double kredittotal;
         String nilaihuruf, kredit;
 
-        kredittotal = 4.0;
+        kredittotal = 0;
         a = 4.0;
         aB = 3.5;
         b = 3.0;
